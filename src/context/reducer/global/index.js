@@ -5,7 +5,7 @@ import { deepCopy } from '../../../methods/assistFunctions';
 
 export const defaultValue_global = {
     title: localStorage.getItem('title') || refer.DEFAULT_TITLE,
-    theme_index: Number(localStorage.getItem('theme_index')) || 0,
+    theme_index: Number(localStorage.getItem('theme_index')) || 3,
     theme_list: [
         { main: "#eda938", light: "#f4cc87", dark: "#e79021", ex: "#ce7529", assist: "#1980da" },
         { main: "#ff4c26", light: "#ffcabc", dark: "#e83f1d", ex: "#c12a0f", assist: "#0e95ac" },
