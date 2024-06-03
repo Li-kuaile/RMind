@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/RMind/static/css/main.199e2a37.chunk.css",
-    "main.js": "/RMind/static/js/main.0fc10e9e.chunk.js",
-    "runtime~main.js": "/RMind/static/js/runtime~main.2dabc035.js",
-    "static/css/2.24bf1742.chunk.css": "/RMind/static/css/2.24bf1742.chunk.css",
-    "static/js/2.f29f6a22.chunk.js": "/RMind/static/js/2.f29f6a22.chunk.js",
-    "static/js/3.482d5276.chunk.js": "/RMind/static/js/3.482d5276.chunk.js",
-    "static/js/4.d151e797.chunk.js": "/RMind/static/js/4.d151e797.chunk.js",
+    "main.css": "/RMind/static/css/main.2ddd3fdc.css",
+    "main.js": "/RMind/static/js/main.879684aa.js",
+    "static/js/44.e2c84e45.chunk.js": "/RMind/static/js/44.e2c84e45.chunk.js",
+    "static/js/239.2153af2f.chunk.js": "/RMind/static/js/239.2153af2f.chunk.js",
+    "static/media/zwicon.svg?k483k8": "/RMind/static/media/zwicon.a8f9e0d41ece5c9cb4aa.svg",
+    "static/media/zwicon.eot?k483k8": "/RMind/static/media/zwicon.c67263ceab6a899bdaf2.eot",
+    "static/media/zwicon.woff?k483k8": "/RMind/static/media/zwicon.1266fdfe12ddb85b5286.woff",
+    "static/media/zwicon.ttf?k483k8": "/RMind/static/media/zwicon.e8ee39138f6d2e14e67d.ttf",
     "index.html": "/RMind/index.html",
-    "precache-manifest.9cd71367196ce7645f750b704d1dc740.js": "/RMind/precache-manifest.9cd71367196ce7645f750b704d1dc740.js",
-    "service-worker.js": "/RMind/service-worker.js",
-    "static/media/zwicon.css": "/RMind/static/media/zwicon.d7e439ce.ttf"
-  }
+    "main.2ddd3fdc.css.map": "/RMind/static/css/main.2ddd3fdc.css.map",
+    "main.879684aa.js.map": "/RMind/static/js/main.879684aa.js.map",
+    "44.e2c84e45.chunk.js.map": "/RMind/static/js/44.e2c84e45.chunk.js.map",
+    "239.2153af2f.chunk.js.map": "/RMind/static/js/239.2153af2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ddd3fdc.css",
+    "static/js/main.879684aa.js"
+  ]
 }
