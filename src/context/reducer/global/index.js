@@ -1,7 +1,7 @@
 import * as actionTypes from './actionTypes';
 import * as refer from '../../../statics/refer';
 import { deepCopy } from '../../../methods/assistFunctions';
-// import { debug } from 'util';
+import { debug } from 'util';
 
 export const defaultValue_global = {
     title: localStorage.getItem('title') || refer.DEFAULT_TITLE,

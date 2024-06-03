@@ -11,7 +11,7 @@ export const MINDMAP_MAIN = 'rmind_main'
 
 // 缺省文本
 export const NEW_NODE_TEXT = '新建节点';
-export const DEFAULT_TITLE = '未命名导图';
+export const DEFAULT_TITLE = '前端学习路线';
 
 // CSS 主题变量名
 export const THEME_MAIN = '--theme-main';
