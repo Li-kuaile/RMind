@@ -37,7 +37,7 @@ const Node = ({layer, node, parent, node_refs, on_left}) => {
 
     useEffect(() => {
         if (nodeStatus.cur_select === node.id) {
-            // self.current.scrollIntoView({behavior: 'smooth', block: 'center', inline: 'center'});
+            self.current.scrollIntoView({behavior: 'smooth', block: 'center', inline: 'center'});
             nDispatch(getNodeInfo(node, parent, on_left));
         }
     }, [nodeStatus.cur_select, node]);    
