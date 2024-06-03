@@ -1,7 +1,7 @@
 import {ROOT_NODE_ID} from './refer';
 
 export default {
-    id: "rmind_root_node",
+    id: ROOT_NODE_ID,
     text: "前端学习路线",
     showChildren: true,
     children: [
